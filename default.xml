@@ -60,6 +60,8 @@
   <project path="vendor/to" name="platform_vendor_to" remote="to" revision="oct-mm" />
   <project path="vendor/cm/sepolicy/qcom" name="platform_vendor_cm_sepolicy_qcom" remote="to" revision="oct-mm" />
   <project path="vendor/cmsdk" name="cm_platform_sdk" remote="to" revision="oct-mm" />
+<!-- TOOLCHAINS -->
+
 
 <!-- END OCTOS -->
 
