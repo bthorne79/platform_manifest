@@ -22,7 +22,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="manifest" name="platform_manifest" remote="bt" revision="aosp-7.1.2" />
-  <project path="frameworks/base" name="platform_frameworks_base" remote="bt" revision="master" />
+  <project path="frameworks/base" name="frameworks_base" remote="bt" revision="aosp" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="platform/art" groups="pdk" />
   <project path="bionic" name="platform/bionic" groups="pdk" />
